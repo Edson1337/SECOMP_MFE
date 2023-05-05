@@ -1,2 +1,2 @@
 # SECOMP_MFE
-Esse é o repositório para as aplicações em Next.js
+Esse é o repositório para arquivos usados nas aplicações Next.js
