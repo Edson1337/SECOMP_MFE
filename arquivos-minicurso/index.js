@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import axios from 'axios'
-import { NavNext } from '@thetheu/scopim.nav-next'
+import { NavNext } from 'minicurso_mfe/components.nav-next'
 import { FooterNext } from '@minicurso_mfe/components.footer-next'
 
 export default function MyPage({ data }) {
